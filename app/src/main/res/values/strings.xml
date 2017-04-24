@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ContactsAssignment</string>
+    <string name="add_contact">Add A Contact</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="email">E-mail</string>
+    <string name="ok">Ok</string>
+    <string name="error">Error</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="back">Back</string>
+    <string name="reset_form">Reset form</string>
+    <string name="empty_fields_error">Please make sure that all fields contain data</string>
+    <string name="not_numbers_fields_error">Please make sure that number fields only contain numbers
+    </string>
+    <string name="contact_exists">Contact with this name already exists.
+        Please choose a different name</string>
+    <string name="contact_settings">Contact settings</string>
+</resources>
